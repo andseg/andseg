@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/andseg/andseg/main/andseg.gif)](https://www.linkedin.com/in/segatto9/?locale=en_US)
+[![](https://raw.githubusercontent.com/andseg/andseg/main/readme-andseg2.gif)](https://www.linkedin.com/in/segatto9/?locale=en_US)
 # 💫 About Me:
 🔭 I’m currently working on cypress automations.<br>🌱 I’m currently learning Tools for QA and DevOps.<br>💬 Ask me about Python, QA and Cypress.<br>⚡ Fun fact Lua is pronounced LOO-ah, which means Moon in portuguese!
 
