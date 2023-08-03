@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 -->
 
 # 💬 Cool Gif at the top:
-- My Version: [https://codesandbox.io/s/readme-intro-gif-forked-gmkqnc?file=/src/main.js]()
-- Where I got it from (Thank you raymo111) [https://codesandbox.io/s/readme-introgif-9fjo5]()
+- My Version: [codesandbox](https://codesandbox.io/s/readme-intro-gif-forked-gmkqnc?file=/src/main.js)
+- Where I got it from (Thank you raymo111) [codesandbox](https://codesandbox.io/s/readme-introgif-9fjo5)
