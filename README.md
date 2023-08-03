@@ -31,7 +31,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->[LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()
+[LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()
+-->
 
 # 💬 Cool Gif at the top:
-[https://codesandbox.io/s/readme-intro-gif-forked-gmkqnc?file=/src/main.js](url)
+- My Version: [https://codesandbox.io/s/readme-intro-gif-forked-gmkqnc?file=/src/main.js]()
+- Where I got it from (Thank you raymo111) [https://codesandbox.io/s/readme-introgif-9fjo5]()
